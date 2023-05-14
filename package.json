@@ -1,0 +1,31 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "description": "Одностраничный сайт, созданный с использованием Bootstrap Адаптированный с помощью сетки Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlkaFoxyk/UBER_bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlkaFoxyk/UBER_bootstrap/issues"
+  },
+  "homepage": "https://github.com/UlkaFoxyk/UBER_bootstrap#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "sass": "^1.62.1"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^5.1.0"
+  }
+}
